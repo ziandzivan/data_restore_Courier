@@ -4,3 +4,4 @@ version=v2.11
 versionCode=5
 author=ziand
 description=Courier of latest version data_restore script to folder /sdcard.
+updateJson=https://raw.githubusercontent.com/ziandzivan/data_restore_Courier/main/module.json

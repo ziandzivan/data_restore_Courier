@@ -1,3 +1,7 @@
+2.13  
+• Added support of some Xiaomi  
+• Fixes  
+
 2.12  
 • Fixes  
 • Added support of  

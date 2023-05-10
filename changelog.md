@@ -1,3 +1,6 @@
+2.14  
+• Some fixes for TWRP restoring  
+
 2.13  
 • Added support of some Xiaomi  
 • Fixes  

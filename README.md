@@ -3,6 +3,8 @@
 ## Introduction
 Courier-module for delivering to user and updating a Script ![data_restore](https://github.com/ziandzivan/data_restore).
 
+<a href="https://forum.xda-developers.com/t/module-discussion-data-internal-storage-backup-module-for-rooted-magisk-devices-with-twrp.4571947/#post-88369163)"><img src="https://img.shields.io/badge/XDA-discussion-yellow?longCache=true&style=flat">
+
 ## Requirement
 
 - Magisk 20.4+
